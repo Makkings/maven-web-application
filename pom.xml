@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.234.232.165:8081/repository/master-card-Release/</url>
+	      <url>http://54.235.0.119:8081/repository/master-card-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.234.232.165:8081/repository/master-card-SS/</url>
+	      <url>http://54.235.0.119:8081/repository/master-card-SS/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
