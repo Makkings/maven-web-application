@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.235.0.119:8081/repository/master-card-SS/</url>
+	      <url>http://34.236.143.52:8081/repository/master-card-SS/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
