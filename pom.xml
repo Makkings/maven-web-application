@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Alexia-web</finalName>
+		<finalName>Alexia-is-here</finalName>
 		
 		<plugins>
 			<plugin>
