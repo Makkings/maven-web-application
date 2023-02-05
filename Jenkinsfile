@@ -1,6 +1,5 @@
 // This is my first jenkins file.
-//okay
-// I will write so many in this life
+// I will write so many in this life in the name of Jesus, Amen.
 // God has made me the head.
 //Note to self:
 // I AM THE SME - subject matter expert.
