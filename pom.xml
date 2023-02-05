@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://23.20.137.119:8081/repository/Alexia-card-SS/url>
+	      <url>http://23.20.137.119:8081/repository/Alexia-card-SS</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
