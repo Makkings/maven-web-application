@@ -12,9 +12,11 @@
 <h1 align="center">Welcome to ACE Technologies</h1>
 <h2 align="center"> 
 	This is the home of great innovations, and we are here to serve you with the best.
+	<br>
+	You can be sure that the Holyspirit is here.
 	Let us know about your experience in the end.
 		</h2>
-	<h3>You can be sure that the Holyspirit is here.
+	<h3 align="center">Let us know about your experience in the end.
 		</h3>
 	
 	<h1 align="center"; font-weight="bold";>A D S</h1>
@@ -23,7 +25,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Asam.JPG" alt="" width="20">
+		<img src="images/Asam.JPG" alt="" width="50">
 	</span>
 	<span style="font-weight: bold;">
 		ACE Technologies, 
