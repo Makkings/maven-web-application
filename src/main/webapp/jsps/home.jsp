@@ -14,7 +14,7 @@
 	This is the home of great innovations, and we are here to serve you with the best.
 	<br>
 	You can be sure that the Holyspirit is here.
-	Let us know about your experience in the end.
+	
 		</h2>
 	<h3 align="center">Let us know about your experience in the end.
 		</h3>
