@@ -11,15 +11,19 @@
 <body>
 <h1 align="center">Welcome to ACE Technologies</h1>
 <h2 align="center"> 
-	This is the home of great innovations, and we are here to serve you.
+	This is the home of great innovations, and we are here to serve you with the best.
 	Let us know about your experience in the end.
-		/h2>
-<h3 align="center"><em>...Simply the best</em>
+		</h2>
+	<h3>You can be sure that the Holyspirit is here.
+		</h3>
+	
+	<h1 align="center"; font-weight="bold";>A D S</h1>
+<h3 align="center"><em>...Simply the best.</em>
 	</h3>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Asam.JPG" alt="" width="200">
+		<img src="images/Asam.JPG" alt="" width="20">
 	</span>
 	<span style="font-weight: bold;">
 		ACE Technologies, 
@@ -34,7 +38,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
+<p align=center>ACE Technologies - Teaching, Research, Production.</p>
 <p align=center><small>Copyrights 2023 by <a href="http://acetech.com/">ACE Technologies</a> </small></p>
 
 </body>
