@@ -4,28 +4,30 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
-<link href="images/log4.png" rel="icon">
+<title>ACE Tech Solutions</title>
+<link href="images/logo2.JPG" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Tesla web app project.
-	Landmark Technologies is a software development company. 
-	Class29 will run from July 12, 2022.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+<h1 align="center">Welcome to ACE Technologies</h1>
+<h2 align="center"> 
+	This is the home of great innovations, and we are here to serve you.
+	Let us know about your experience in the end.
+		/h2>
+<h3 align="center"><em>...Simply the best</em>
+	</h3>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="200">
+		<img src="images/Asam.JPG" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		ACE Technologies, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		info@acetech.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:talk2ezealex@gmail.com">Mail to ACE Technologies</a>
 	</span>
 </div>
 <hr>
@@ -33,7 +35,7 @@
 <hr>
 <hr>
 <p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://acetech.com/">ACE Technologies</a> </small></p>
 
 </body>
 </html>
