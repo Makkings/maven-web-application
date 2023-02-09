@@ -96,13 +96,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>maks</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://54.87.46.214:8081/repository/master-card-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>maks</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.160.165.218:8081/repository/Ace_Group/</url>
 	    </snapshotRepository>
