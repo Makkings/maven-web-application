@@ -27,7 +27,6 @@
 	<span>
 		<img src="images/Asam.JPG" alt="Asam" width="150">
 		<h2>Prof. Esther Eze</h2>
-		<br>
 		<h3><small>Director<small></h3>
 	</span>
 	<br>
