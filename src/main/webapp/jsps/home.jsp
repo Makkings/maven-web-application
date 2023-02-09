@@ -25,13 +25,13 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/Asam.JPG" alt="" width="50">
+		<img src="images/Asam.JPG" alt="Asam" width="150">
 	</span>
+	<br>
 	<span style="font-weight: bold;">
 		ACE Technologies, 
 		Toronto, Ontario, Canada
 		+1 437 215 2483,
-		info@acetech.com
 		<br>
 		<a href="mailto:talk2ezealex@gmail.com">Mail to ACE Technologies</a>
 	</span>
