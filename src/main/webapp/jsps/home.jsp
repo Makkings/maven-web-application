@@ -26,6 +26,8 @@
 <div style="text-align: center;">
 	<span>
 		<img src="images/Asam.JPG" alt="Asam" width="150">
+		<h2>Prof. Esther Eze</h2>
+		<h3>Director</h3>
 	</span>
 	<br>
 	<span style="font-weight: bold;">
