@@ -3,7 +3,7 @@
 // God has made me the head.
 //Note to self:
 // I AM THE SME - subject matter expert...
-// God I pray for ADS!!!
+// God I pray for ADS!!!...
 pipeline{
     agent any
     tools{
