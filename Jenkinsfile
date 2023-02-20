@@ -1,4 +1,4 @@
-//All for God
+//All for God, whose name is 'YAWEH'
 pipeline{
     agent any
         tools{
