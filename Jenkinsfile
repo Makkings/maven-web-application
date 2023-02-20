@@ -1,5 +1,3 @@
-//All for GOD
-
 pipeline{
     agent any
         tools{
