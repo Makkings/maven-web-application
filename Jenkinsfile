@@ -1,40 +1,33 @@
-// This is my first jenkins file.
-// I will write so many in this life in the name of Jesus, Amen.
-// God has made me the head.
-//Note to self:
-// I AM THE SME - subject matter expert...
-// God I pray for ADS!!!
 pipeline{
     agent any
-    tools{
-        maven 'mvn'
-    }
-    stages{
-        stage('clone'){
-            steps{
-                git 'https://github.com/Acecmd/maven-web-application.git'
-            }
+        tools{
+            mvn 'mvn'
         }
-        stage('test and build'){
-            steps{
-                sh 'mvn clean package'
+        stages{
+            stage(clone-the-code){
+                steps{
+                    git 'https://github.com/Acecmd/maven-web-application.git'
+                }
             }
-        }
-        stage('code quality analysis'){
-            steps{
-                sh 'mvn sonar:sonar'
+            stage(build-the-code){
+                steps{
+                   sh 'mvn clean package'
+                }
             }
-        }
-        stage('upload to nexus'){
-            steps{
-                sh 'mvn deploy'
+            stage(analyze-the-code){
+                steps{
+                   sh 'mvn sonar:sonar'
+                }
             }
-        }
-        stage('deploy to tomcat'){
-            steps{
-            deploy adapters: [tomcat8(credentialsId: 'tomcat-cred', path: '', url: 'http://54.87.213.143:8080/')], contextPath: null, war: 'target/*war'
+            stage(deploy-to-nexus){
+                steps{
+                    sh 'mvn deploy'
+                }
             }
-        }
-        
-    }
-} 
+            stage(deploy-the-application){
+                steps{
+                    deploy adapters: [tomcat8(credentialsId: 'tomcat-cred', path: '', url: 'http://34.239.249.107:8080/')], contextPath: null, war: 'target/*war'
+                }
+            }
+       }
+}
