@@ -4,7 +4,7 @@
 pipeline{
     agent any
         tools{
-            mvn 'mvn'
+            maven 'mvn'
         }
         stages{
             stage(clone-the-code){
