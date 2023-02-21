@@ -7,12 +7,12 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>tesla-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>tesla app</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
@@ -96,20 +96,20 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.178.122:8000/repository/tesla-release/</url>
+	      <name>Landmark Master-Tesla Nexus Repository</name>
+	      <url>http://3.95.11.109:8081/repository/master-tesla-app.release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.178.122:8000/repository/testla/</url>
+	      <name>Landmark master-Tesla Snapshot Nexus Repository </name>
+	      <url>http://3.95.11.109:8081/repository/master-tesla-app.ss/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Paypal-web-app</finalName>
+		<finalName>master-tesla-app</finalName>
 		
 		<plugins>
 			<plugin>
