@@ -7,27 +7,27 @@ pipeline{
             maven 'mvn'
         }
         stages{
-            stage(clone-the-code){
+            stage(clone){
                 steps{
                     git 'https://github.com/Acecmd/maven-web-application.git'
                 }
             }
-            stage(build-the-code){
+            stage(build){
                 steps{
                    sh 'mvn clean package'
                 }
             }
-            stage(analyze-the-code){
+            stage(analyze){
                 steps{
                    sh 'mvn sonar:sonar'
                 }
             }
-            stage(deploy-to-nexus){
+            stage(backup){
                 steps{
                     sh 'mvn deploy'
                 }
             }
-            stage(deploy-the-application){
+            stage(deploy){
                 steps{
                     deploy adapters: [tomcat8(credentialsId: 'tomcat-cred', path: '', url: 'http://34.239.249.107:8080/')], contextPath: null, war: 'target/*war'
                 }
