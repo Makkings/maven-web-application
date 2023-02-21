@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.82.127.221:9000/</sonar.host.url>
+		<sonar.host.url>http://3.80.96.83:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>asam</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.173.242.57:8081/repository/asam/</url>
+	      <url>http://50.19.49.128:8081/repository/asamBC/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
