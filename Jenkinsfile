@@ -1,5 +1,3 @@
-//All for God, whose name is 'YAWEH'
-//AMENNNNN!!
 pipeline{
     agent any
         tools{
