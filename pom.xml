@@ -96,7 +96,7 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>maks</id>
+	      <id>asam</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://54.87.46.214:8081/repository/master-card-RELEASE/</url>
 	    </repository>
