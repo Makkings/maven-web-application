@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>asam</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.163.34.30:8081/repository/Makks/</url>
+	      <url>http://54.163.34.30:8081/repository/maks_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
