@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark tesla-app Snapshot Nexus Repository </name>
-	      <url>http://3.95.11.109:8081/repository/master-tesla-app.ss/</url>
+	      <url>http://35.174.6.118:8081/repository/Tesla-project-ss/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
